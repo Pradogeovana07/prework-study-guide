@@ -1,2 +1,2 @@
 # prework-study-guide
-First practice coding project
+Boot Camp Prework Guide for Students
